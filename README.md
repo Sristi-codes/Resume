@@ -1,1 +1,14 @@
-# Resume
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=resume.pdf">
+    <title>Sristi Sarkar</title>
+</head>
+<body>
+    <p>
+        Redirecting...
+        <a href="resume_Sristi_Sarkar_updated.pdf">Click here if you are not redirected.</a>
+    </p>
+</body>
+</html>
